@@ -2,4 +2,6 @@
 !.gitignore
 !pico.py 
 !pico.sh
+!certificate
 !*.md
+!/WIZ
