@@ -2,5 +2,5 @@
 pico/*
 !pico/pico.py
 !pico/pico.sh
-OTW/*.txt
+OTW/*/*.txt
 
