@@ -4,6 +4,7 @@
 !pico.sh
 !certificate
 !*.md
-!/WIZ
+!WIZ
 /basmach
 !/pico
+pico/pico/*
