@@ -9,8 +9,8 @@ A collection of my CTF writeups documenting solutions, tools used, and the reaso
 
 | Wargame | Category | Levels | Status | Writeup |
 |---|---|---|---|---|
-| [Bandit](https://overthewire.org/wargames/bandit/) | Linux CLI, networking, Git, cryptography | 0 → 33 | ✅ Complete | [View](./overthewire/bandit/README.md) |
-| [Leviathan](https://overthewire.org/wargames/leviathan/leviathan0.html) | SUID binaries, ltrace, gdb, symlink attacks | 0 → 7 | ✅ Complete | [View](./overthewire/leviathan/README.md) |
+| [Bandit](https://overthewire.org/wargames/bandit/) | Linux CLI, networking, Git, cryptography | 0 → 33 | ✅ Complete | [View](./OTW/bandit/README.md) |
+| [Leviathan](https://overthewire.org/wargames/leviathan/leviathan0.html) | SUID binaries, ltrace, gdb, symlink attacks | 0 → 7 | ✅ Complete | [View](./OTW/leviathan/README.md) |
 | [Natas](./overthewire/natas/README.md) | Web security, HTTP, SQL injection, encoding | 0 → ? | 🔄 In progress | — |
 | [Narnia](./overthewire/narnia/README.md) | Binary exploitation, buffer overflows | 0 → ? | ⏳ Upcoming | — |
 
