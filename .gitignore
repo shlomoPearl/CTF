@@ -1,10 +1,6 @@
-* 
-!.gitignore
-!pico.py 
-!pico.sh
-!certificate
-!*.md
-!WIZ
 /basmach
-!/pico
-pico/pico/*
+pico/*
+!pico/pico.py
+!pico/pico.sh
+OTW/*.txt
+
