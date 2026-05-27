@@ -9,7 +9,7 @@ A collection of my CTF writeups documenting solutions, tools used, and the reaso
 
 | Platform | Category | Levels | Status | Writeup |
 |---|---|---|---|---|
-| [WIZ Cloud Hunting](https://cloudhuntinggames.com/) | AWS, CloudTrail, malware analysis | 5 levels | ✅ Complete | [View](./WIZ/cloud hunting game/README.md) |
+| [WIZ Cloud Hunting](https://cloudhuntinggames.com/) | AWS, CloudTrail, malware analysis | 5 levels | ✅ Complete | [View](./WIZ/cloud-hunting-game/README.md) |
 | [Bandit](https://overthewire.org/wargames/bandit/) | Linux CLI, networking, Git, cryptography | 0 → 33 | ✅ Complete | [View](./OTW/bandit/README.md) |
 | [Leviathan](https://overthewire.org/wargames/leviathan/leviathan0.html) | SUID binaries, ltrace, gdb, symlink attacks | 0 → 7 | ✅ Complete | [View](./OTW/leviathan/README.md) |
 | [Natas](./overthewire/natas/README.md) | Web security, HTTP, SQL injection, encoding | 0 → ? | 🔄 In progress | — |
