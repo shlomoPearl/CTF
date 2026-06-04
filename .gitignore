@@ -3,6 +3,6 @@ pico/*
 !pico/pico.py
 !pico/pico.sh
 OTW/*/*.txt
-WIZ/*.txt
+WIZ/*/*.txt
 *.txt
 certificate
