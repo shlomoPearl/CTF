@@ -1,7 +1,6 @@
 /basmach
 pico/*
-!pico/pico.py
-!pico/pico.sh
+!pico/*.py
 OTW/*/*.txt
 WIZ/*/*.txt
 *.txt
