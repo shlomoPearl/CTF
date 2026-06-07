@@ -281,7 +281,7 @@ Since the server returned different responses for valid/invalid usernames but ne
 payload = {'username': f'natas16" AND BINARY password LIKE \'{password}{ch}%\' #'}
 ```
 
-See the full script: [`blind_sql.py`](./blind_sql.py)  
+See the full script: [`blind_sqli.py`](./blind_sqli.py)  
 The absence of visible output does not mean injection is unexploitable — boolean-based and time-based techniques can still extract the full database.
 
 ---
